@@ -6,7 +6,7 @@ Chempy-Widget was written by Nathan Sandford is an interactive iPython widget fo
 Chempy-Widget is hosted on [Binder](https://mybinder.org/), which takes care of all necessary dependencies and allows anybody to interactively use the notebook. 
 
 Click on the following link to start playing around with Chempy-Widget!
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cleevesli/Chempy-Widget-Mod/master?filepath=chempy_widget.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cleevesli/Chempy-Widget-V2/main?filepath=chempy_widget.ipynb)
 
 
 ### Dependencies
